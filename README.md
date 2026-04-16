@@ -1,3 +1,3 @@
 # Concept-Understanding-Operating-System
 
-To understand the kernel and related things
+To understand the Operating System , kernel and related things
